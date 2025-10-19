@@ -1,0 +1,25 @@
+Tipuri de date:
+ long long 
+ char
+ void
+
+Instructiuni : 
+    for 
+    switch / case
+
+nu are librari , doar <iostream>
+ nu are metode in struct 
+
+nu ai std::cout , std::cin , fara using
+
+operatii pe biti << , >> , ...
+
+nu ai comentri definite
+nu are operatorul not !
+nu detine declarari de liste/vectori
+nu are do while
+nu are for each
+nu are continue / break 
+nu detine conditie de adevarat fara operatori de comparatie
+nu are cititori de fisiere
+fara declari in lista

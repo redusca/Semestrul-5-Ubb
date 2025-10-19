@@ -1,6 +1,6 @@
 (* EBNF : *)
 
-(* Program si Intructiuni * )
+(* Program si Intructiuni *)
 
 PROGRAM = "#include" "<iostream>" { STRUCT } "int" "main "(" ")" "{" { INSTR } INSTR_RETURN ";" "}" .
 STRUCT = "STRUCT" DENUMIRE "{" {INSTR_ATRIBUIRE} {METODA} "}" ";" .

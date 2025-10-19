@@ -1,0 +1,11 @@
+Lexical Error at line 4, column 13: Invalid numeric constant '123abc' - contains non-digit characters
+Lexical Error at line 6, column 16: Invalid numeric constant '3.' - no digits after decimal point
+Lexical Error at line 8, column 9: Unknown character '@'
+Lexical Error at line 10, column 9: Invalid numeric constant '9variable' - contains non-digit characters
+Lexical Error at line 14, column 17: Invalid numeric constant '3.14.159' - multiple decimal points
+Lexical Error at line 16, column 14: Unknown character '#'
+Lexical Error at line 18, column 16: Unknown character '$'
+Lexical Error at line 20, column 9: Unknown character '€'
+Lexical Error at line 22, column 15: Invalid numeric constant '42x' - contains non-digit characters
+Lexical Error at line 26, column 13: Unknown character '!'
+Lexical Error at line 28, column 13: Invalid numeric constant '2.2.2' - multiple decimal points

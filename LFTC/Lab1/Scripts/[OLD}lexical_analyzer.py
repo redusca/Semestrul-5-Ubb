@@ -268,7 +268,7 @@ def main():
     analyzer = LexicalAnalyzer()
     
     
-    cpp_files = ['err_1.cpp', 'err_2.cpp']
+    cpp_files = ['cerc.cpp', 'cmmdc.cpp', 'suma_n.cpp']
     
     for cpp_file in cpp_files:
        print(f"\n--- {cpp_file} ---")

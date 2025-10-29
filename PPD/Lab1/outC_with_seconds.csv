@@ -1,0 +1,79 @@
+Tip Matrice,Tip alocare,Nr threads,Timp executie,Timp executie (s)
+Matrice 10x10,static,secvential,5510 ns,0.000006
+Matrice 10x10,dynamic(orizontal),4,665660 ns,0.000666
+Matrice 10x10,dynamic(vertical),4,630900 ns,0.000631
+Matrice 1000x1000,static,secvential,130670830 ns,0.130671
+Matrice 1000x1000,dynamic(orizontal),2,64383150 ns,0.064383
+Matrice 1000x1000,dynamic(orizontal),4,34506690 ns,0.034507
+Matrice 1000x1000,dynamic(orizontal),8,29632590 ns,0.029633
+Matrice 1000x1000,dynamic(orizontal),16,28158150 ns,0.028158
+Matrice 1000x1000,dynamic(vertical),2,63786490 ns,0.063786
+Matrice 1000x1000,dynamic(vertical),4,35891090 ns,0.035891
+Matrice 1000x1000,dynamic(vertical),8,31475170 ns,0.031475
+Matrice 1000x1000,dynamic(vertical),16,28993110 ns,0.028993
+Matrice 10x10000,static,secvential,12327400 ns,0.012327
+Matrice 10x10000,dynamic(orizontal),2,7091300 ns,0.007091
+Matrice 10x10000,dynamic(orizontal),4,5807240 ns,0.005807
+Matrice 10x10000,dynamic(orizontal),8,5631790 ns,0.005632
+Matrice 10x10000,dynamic(orizontal),16,13684970 ns,0.013685
+Matrice 10x10000,dynamic(vertical),2,6982170 ns,0.006982
+Matrice 10x10000,dynamic(vertical),4,4226510 ns,0.004227
+Matrice 10x10000,dynamic(vertical),8,3795400 ns,0.003795
+Matrice 10x10000,dynamic(vertical),16,3421830 ns,0.003422
+Matrice 10000x10,static,secvential,12471590 ns,0.012472
+Matrice 10000x10,dynamic(orizontal),2,7750060 ns,0.00775
+Matrice 10000x10,dynamic(orizontal),4,4056780 ns,0.004057
+Matrice 10000x10,dynamic(orizontal),8,3877010 ns,0.003877
+Matrice 10000x10,dynamic(orizontal),16,4030590 ns,0.004031
+Matrice 10000x10,dynamic(vertical),2,7581940 ns,0.007582
+Matrice 10000x10,dynamic(vertical),4,6045830 ns,0.006046
+Matrice 10000x10,dynamic(vertical),8,5399830 ns,0.0054
+Matrice 10000x10,dynamic(vertical),16,14215110 ns,0.014215
+Matrice 10000x10000,static,secvential,12564654870 ns,12.564655
+Matrice 10000x10000,dynamic(orizontal),2,6489111240 ns,6.489111
+Matrice 10000x10000,dynamic(orizontal),4,3922012850 ns,3.922013
+Matrice 10000x10000,dynamic(orizontal),8,2394046700 ns,2.394047
+Matrice 10000x10000,dynamic(orizontal),16,2142961320 ns,2.142961
+Matrice 10000x10000,dynamic(vertical),2,7271245090 ns,7.271245
+Matrice 10000x10000,dynamic(vertical),4,4486257190 ns,4.486257
+Matrice 10000x10000,dynamic(vertical),8,2362952260 ns,2.362952
+Matrice 10000x10000,dynamic(vertical),16,2357255140 ns,2.357255
+Matrice 10x10,static,secvential,26880 ns,0.000027
+Matrice 10x10,static (orizontal),4,674390 ns,0.000674
+Matrice 10x10,static (vertical),4,637950 ns,0.000638
+Matrice 1000x1000,static,secvential,118124380 ns,0.118124
+Matrice 1000x1000,static (orizontal),2,59205210 ns,0.059205
+Matrice 1000x1000,static (orizontal),4,30935410 ns,0.030935
+Matrice 1000x1000,static (orizontal),8,27378120 ns,0.027378
+Matrice 1000x1000,static (orizontal),16,25513440 ns,0.025513
+Matrice 1000x1000,static (vertical),2,58496870 ns,0.058497
+Matrice 1000x1000,static (vertical),4,32980140 ns,0.03298
+Matrice 1000x1000,static (vertical),8,27129470 ns,0.027129
+Matrice 1000x1000,static (vertical),16,25890080 ns,0.02589
+Matrice 10x10000,static,secvential,11398080 ns,0.011398
+Matrice 10x10000,static (orizontal),2,6645390 ns,0.006645
+Matrice 10x10000,static (orizontal),4,5492980 ns,0.005493
+Matrice 10x10000,static (orizontal),8,5367080 ns,0.005367
+Matrice 10x10000,static (orizontal),16,12553930 ns,0.012554
+Matrice 10x10000,static (vertical),2,6409310 ns,0.006409
+Matrice 10x10000,static (vertical),4,3924380 ns,0.003924
+Matrice 10x10000,static (vertical),8,3495600 ns,0.003496
+Matrice 10x10000,static (vertical),16,4209170 ns,0.004209
+Matrice 10000x10,static,secvential,25030730 ns,0.025031
+Matrice 10000x10,static (orizontal),2,14599470 ns,0.014599
+Matrice 10000x10,static (orizontal),4,8881460 ns,0.008881
+Matrice 10000x10,static (orizontal),8,6463830 ns,0.006464
+Matrice 10000x10,static (orizontal),16,6496730 ns,0.006497
+Matrice 10000x10,static (vertical),2,21601430 ns,0.021601
+Matrice 10000x10,static (vertical),4,19191430 ns,0.019191
+Matrice 10000x10,static (vertical),8,24250960 ns,0.024251
+Matrice 10000x10,static (vertical),16,26462800 ns,0.026463
+Matrice 10000x10000,static,secvential,11389923620 ns,11.389924
+Matrice 10000x10000,static (orizontal),2,5810103880 ns,5.810104
+Matrice 10000x10000,static (orizontal),4,3093589860 ns,3.09359
+Matrice 10000x10000,static (orizontal),8,2167524650 ns,2.167525
+Matrice 10000x10000,static (orizontal),16,1986948500 ns,1.986949
+Matrice 10000x10000,static (vertical),2,5749952870 ns,5.749953
+Matrice 10000x10000,static (vertical),4,3139799450 ns,3.139799
+Matrice 10000x10000,static (vertical),8,2300307410 ns,2.300307
+Matrice 10000x10000,static (vertical),16,2047592190 ns,2.047592

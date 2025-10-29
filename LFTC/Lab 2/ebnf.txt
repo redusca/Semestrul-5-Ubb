@@ -1,0 +1,18 @@
+fisier = lista_alfabet, stari, stare_initiale, stari_finale, tranzitii.
+alfabet = CIF | CHAR | "-" | "+" | ".".
+stare = CHAR, number.
+stare_initiale = CHAR, "0".
+stari_finale = stare | stare, stari_finale.
+tranzitii = tranzitie | tranzitie, tranzitii.
+tranzitie = stare, stare, lista_alfabet.
+lista_alfabet = alfabet | alfabet, lista_alfabet.
+CHAR = "A" | "B" | "C" | "D" | "E" | "F" | "G"
+       | "H" | "I" | "J" | "K" | "L" | "M" | "N"
+       | "O" | "P" | "Q" | "R" | "S" | "T" | "U"
+       | "V" | "W" | "X" | "Y" | "Z" | "a" | "b"
+       | "c" | "d" | "e" | "f" | "g" | "h" | "i"
+       | "j" | "k" | "l" | "m" | "n" | "o" | "p"
+       | "q" | "r" | "s" | "t" | "u" | "v" | "w"
+       | "x" | "y" | "z" .
+CIF = "0" | "1" | "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9".
+number = ("1" | "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9") | number, CIF.

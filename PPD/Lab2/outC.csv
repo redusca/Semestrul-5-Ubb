@@ -1,0 +1,13 @@
+Tip Matrice,Nr threads,Timp executie
+Matrice 10x10,secvential,4900 ns
+Matrice 10x10,2,616350 ns
+Matrice 1000x1000,secvential,31842760 ns
+Matrice 1000x1000,2,22542110 ns
+Matrice 1000x1000,4,15424380 ns
+Matrice 1000x1000,8,10987600 ns
+Matrice 1000x1000,16,11939920 ns
+Matrice 10000x10000,secvential,3065328830 ns
+Matrice 10000x10000,2,1767015770 ns
+Matrice 10000x10000,4,987240540 ns
+Matrice 10000x10000,8,810458630 ns
+Matrice 10000x10000,16,708460710 ns

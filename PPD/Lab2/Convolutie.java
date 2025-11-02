@@ -129,7 +129,7 @@ public class Convolutie {
                 // All threads must iterate the same number of times for barrier synchronization
                 for (int iter = 0; iter < maxRows; iter++) {
                     int i = startRow + iter;
-
+                    
                     // Only process if within this thread's range
                     if (i <= endRow) {
                         for (int j = 1; j <= m; j++) {
@@ -148,7 +148,7 @@ public class Convolutie {
                     // Only advance vectors if within range
                     if (i <= endRow) {
                         nextVec(a, b, c, i + 1);
-
+                        
                         // Use safe vector for the last row calculation to avoid race condition
                         if (threadId < threads - 1 && i == endRow - 1) {
                             c = safeVec[threadId];

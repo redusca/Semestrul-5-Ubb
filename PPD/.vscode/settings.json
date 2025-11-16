@@ -62,7 +62,10 @@
         "xtr1common": "cpp",
         "xutility": "cpp",
         "condition_variable": "cpp",
-        "mutex": "cpp"
+        "mutex": "cpp",
+        "string.h": "c",
+        "stdio.h": "c",
+        "mpi.h": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }

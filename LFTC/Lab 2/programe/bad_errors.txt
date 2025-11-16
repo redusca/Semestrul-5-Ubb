@@ -1,0 +1,11 @@
+Lexical Error at line 5, column 16: Invalid octal literal '0129' - contains invalid octal digits (8 or 9)
+Lexical Error at line 6, column 16: Invalid numeric constant '00x1F' - unrecognized format
+Lexical Error at line 7, column 16: Invalid binary literal '0b102' - contains non-binary digits
+Lexical Error at line 9, column 17: Incomplete hexadecimal literal '0x' - missing hex digits after '0x'
+Lexical Error at line 11, column 16: Invalid integer suffix in '123UU' - 'UU' is not a valid suffix (use u, l, ll, ul, ull, llu)
+Lexical Error at line 12, column 16: Invalid integer suffix in '45Lu' - 'Lu' is not a valid suffix (use u, l, ll, ul, ull, llu)
+Lexical Error at line 13, column 16: Invalid integer suffix in '100LUL' - 'LUL' is not a valid suffix (use u, l, ll, ul, ull, llu)
+Lexical Error at line 14, column 17: Invalid integer suffix in '100LLL' - 'LLL' is not a valid suffix (use u, l, ll, ul, ull, llu)
+Lexical Error at line 16, column 17: Incomplete hexadecimal literal '0xGHI' - missing hex digits after '0x'
+Lexical Error at line 18, column 17: Invalid numeric prefix in '0c1010' - expected '0x', '0X', '0b', or '0B'
+Lexical Error at line 19, column 17: Invalid numeric constant '012x01' - unrecognized format

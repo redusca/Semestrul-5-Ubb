@@ -37,7 +37,7 @@ class AutomatFinit:
             return True
         if len(symbol) == 1 and symbol.isalpha():
             return True
-        if symbol in ['-', '+', '.']:
+        if symbol in ['-', '+', '.', "'"]:
             return True
         return False
     

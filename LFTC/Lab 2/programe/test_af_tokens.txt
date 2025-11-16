@@ -1,0 +1,36 @@
+Tokens:
+==================================================
+#include ('#include') at line 1, column 1
+<iostream> ('<iostream>') at line 1, column 10
+int ('int') at line 2, column 1
+main ('main') at line 2, column 5
+( ('(') at line 2, column 9
+) (')') at line 2, column 10
+{ ('{') at line 2, column 12
+int ('int') at line 3, column 5
+ID ('x') at line 3, column 9
+= ('=') at line 3, column 11
+CONST ('123') at line 3, column 13
+; (';') at line 3, column 16
+double ('double') at line 4, column 5
+ID ('pi') at line 4, column 12
+= ('=') at line 4, column 15
+CONST ('3.14') at line 4, column 17
+; (';') at line 4, column 21
+int ('int') at line 5, column 5
+ID ('zero') at line 5, column 9
+= ('=') at line 5, column 14
+CONST ('0') at line 5, column 16
+; (';') at line 5, column 17
+double ('double') at line 6, column 5
+ID ('small') at line 6, column 12
+= ('=') at line 6, column 18
+CONST ('0.5') at line 6, column 20
+; (';') at line 6, column 23
+ID ('x') at line 7, column 5
+++ ('++') at line 7, column 6
+; (';') at line 7, column 8
+return ('return') at line 8, column 5
+CONST ('0') at line 8, column 12
+; (';') at line 8, column 13
+} ('}') at line 9, column 1

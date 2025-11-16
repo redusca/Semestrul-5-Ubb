@@ -8,21 +8,12 @@
 ---
 
 ### Utilizatori :
-<div style="display:flex;gap:1rem;flex-wrap:wrap;align-items:flex-start;">
-  <figure style="margin:0;">
-    <figcaption style="margin-bottom:0.5rem;font-weight:600;">Tehnican Birou</figcaption>
-    <video width="320" height="240" controls>
-      <source src="2025-11-04_15-47-33.mp4" type="video/mp4">
-    </video>
-  </figure>
 
-  <figure style="margin:0;">
-    <figcaption style="margin-bottom:0.5rem;font-weight:600;">Persoana HRs</figcaption>
-    <video width="320" height="240" controls>
-      <source src="2025-11-04_15-56-15.mp4" type="video/mp4">
-    </video>
-  </figure>
-</div>
+#### Tehnican Birou
+📹 [Vizionează Video](https://github.com/redusca/Semestrul-5-Ubb/raw/main/IOC/2025-11-04_15-47-33.mp4)
+
+#### Persoana HRs
+📹 [Vizionează Video](https://github.com/redusca/Semestrul-5-Ubb/raw/main/IOC/2025-11-04_15-56-15.mp4)
 
 ---
 
